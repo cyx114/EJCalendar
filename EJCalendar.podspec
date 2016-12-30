@@ -14,11 +14,11 @@ s.summary      = "a calendar for choosing time interval"
 s.description  = <<-DESC
     A calendar which you can use to choose a time interval。
 DESC
-s.homepage     = "https://github.com/xiachengaa/Calendar"
+s.homepage     = "https://github.com/xiachengaa/EJCalendar"
 s.license      = "MIT"
 s.author       = { "xiacheng" => "15757172115@163.com" }
 s.platform     = :ios
-s.source       = { :git => "https://github.com/xiachengaa/Calendar.git", :tag => "0.0.1" }
+s.source       = { :git => "https://github.com/xiachengaa/EJCalendar.git", :tag => "0.0.1" }
 s.source_files  = "CalendarViewController","CalendarViewController/*.{h，m}"
 s.public_header_files = "CalendarViewController/CalendarViewController.h","CalendarViewController/CalendarView.h","CalendarViewController/CalendarDelegate.h"
 s.requires_arc = true
