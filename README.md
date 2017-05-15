@@ -1,4 +1,4 @@
-![效果图](https://github.com/xiachengaa/Calendar/blob/master/calendar.gif)
+![效果图](http://upload-images.jianshu.io/upload_images/1350034-3ade7deda092c4c1.gif?imageMogr2/auto-orient/strip)
 
 Calendar 是一个用来选择一个日期区间的UIViewController的子类。
 ###使用方法
